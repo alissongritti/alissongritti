@@ -50,6 +50,3 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/alissongritti/alissongritti/output/snake.svg" alt="Snake animation" />
-
-###

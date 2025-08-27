@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">✨ Eu sou Alisson Gritti, Analista Funcional, em transição para a área de desenvolvimento de software. Sou apaixonado por aprender novas tecnologias e, atualmente, estou expandindo minhas habilidades em JavaScript, HTML, CSS e SQL.<br><br>📚 Estudante de Desenvolvimento de Software Multiplataforma - FATEC</p>
+<p align="left">✨ Eu sou Alisson Gritti, Analista Funcional, em transição para a área de desenvolvimento de software. Sou apaixonado por aprender novas tecnologias e, atualmente, estou expandindo minhas habilidades em JavaScript, Typescript, HTML, CSS, SQL, MongoDB.<br><br>📚 Estudante de Desenvolvimento de Software Multiplataforma - FATEC</p>
 
 ###
 
